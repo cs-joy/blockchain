@@ -28,4 +28,5 @@ course
 
 > [Sarah Hammer](https://www.coursera.org/instructor/shammer)
   - **Courses**
-    > [Cryptocurrency and Blockchain: An Introduction to Digital Currencies](https://www.coursera.org/learn/wharton-cryptocurrency-blockchain-introduction-digital-currency) 
+    > [Cryptocurrency and Blockchain: An Introduction to Digital Currencies](https://www.coursera.org/learn/wharton-cryptocurrency-blockchain-introduction-digital-currency, 'course running') 
+    > - [Week1](https://www.coursera.org/learn/wharton-cryptocurrency-blockchain-introduction-digital-currency/home/week/1)
