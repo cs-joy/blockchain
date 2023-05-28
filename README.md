@@ -18,3 +18,8 @@ course
     - [Blockchain Platforms](https://www.coursera.org/learn/blockchain-platforms)
     - [Smart Contracts](https://www.coursera.org/learn/smarter-contracts)
     - [Decentralized Applications](https://www.coursera.org/learn/decentralized-apps-on-blockchain)
+
+> [Arvind Narayanan](https://www.coursera.org/instructor/anarayanan)
+  - **Courses**
+    > [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency, 'course running')
+    >  - [Week1](https://www.coursera.org/learn/cryptocurrency/home/week/1)
