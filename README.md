@@ -23,3 +23,9 @@ course
   - **Courses**
     > [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency, 'course running')
     >  - [Week1](https://www.coursera.org/learn/cryptocurrency/home/week/1)
+
+> [Jessica Wachter](https://www.coursera.org/instructor/jwachter)
+
+> [Sarah Hammer](https://www.coursera.org/instructor/shammer)
+  - **Courses**
+    > [Cryptocurrency and Blockchain: An Introduction to Digital Currencies](https://www.coursera.org/learn/wharton-cryptocurrency-blockchain-introduction-digital-currency) 
